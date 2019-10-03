@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Networks-and-Random-Processes
 
 Notebooks will be uploaded for each support class.
@@ -68,3 +69,7 @@ For GitHub help, check out https://www.gitkraken.com/
 - Barabsai-albert model 
 - empirical tail distribution 
 - expected degree of nearest neighbour given node has degree k
+=======
+# MA933-2019
+Notebook for Stochastic Modelling and Random Processes module
+>>>>>>> 72bf8bcb03e332c80ff870463a56f313c4d7ed8c
