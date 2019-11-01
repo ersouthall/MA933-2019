@@ -23,6 +23,8 @@ Notebooks will be uploaded for each support class.
 - Kingsman's Coalescent
 - Ornstein-Uhlenbeck Process
 - Fractional Brownian Motion
+- simulated by finite difference approximation (taking the Weiner incremenet by sampling from normal distributioon with zero mean and dt vaiance)
+- simulated using `sdeint` (python stochastic differential equations, numerical integration)
 
 `Support Class 4.ipynb`
 - Kingman's Coalescent 
@@ -30,8 +32,6 @@ Notebooks will be uploaded for each support class.
 
 `Support Class 5.ipynb`
 - Orenstein-Uhlenbeck Process 
-- simulated by finite difference approximation (taking the Weiner incremenet by sampling from normal distributioon with zero mean and dt vaiance)
-- simulated using `sdeint` (python stochastic differential equations, numerical integration)
 
 `Support Class 6.ipynb`
 - Moran model (similar to wright-fisher but continuous time)
