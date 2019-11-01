@@ -20,11 +20,13 @@ Notebooks will be uploaded for each support class.
 - Gershgorin disk theorem 
 
 `Support Class 3.ipynb`
-- general plotting techniques in matplotlib [http://matplotlib.org/1.5.3/api/pyplot_api.html#matplotlib.pyplot.plot]( http://matplotlib.org/1.5.3/api/pyplot_api.html#matplotlib.pyplot.plot)
+- Kingsman's Coalescent
+- Ornstein-Uhlenbeck Process
+- Fractional Brownian Motion
 
 `Support Class 4.ipynb`
 - Kingman's Coalescent 
-- CTMC (waiting times, exponentially distributed)
+- Geometric Random Walks
 
 `Support Class 5.ipynb`
 - Orenstein-Uhlenbeck Process 
