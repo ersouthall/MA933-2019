@@ -31,12 +31,11 @@ Notebooks will be uploaded for each support class.
 - Geometric Random Walks
 
 `Support Class 5.ipynb`
-- Orenstein-Uhlenbeck Process 
+- Moran model (similar to wright-fisher but continuous time)
+- CTMC with waiting times 
 
 `Support Class 6.ipynb`
-- Moran model (similar to wright-fisher but continuous time)
-- CTMC with waiting times
-- introduction to networks and using the `networkx` package in python
+- Introduction to networks and using the `networkx` package in python
 - degree distribution, clustering, transitivity, distance, largest component 
 
 `Support Class 7.ipynb`
