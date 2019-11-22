@@ -44,9 +44,9 @@ Notebooks will be uploaded for each support class.
 - expected size of largest component for multiple realisations 
 - expected local clustering coefficient for multiple realisations 
 - Wigner semi-circle law 
+- Geometric Brownian Motion
 
 `Support Class 8.ipynb`
-- compare degree distribution to poisson distribution 
 - Barabsai-albert model 
 - empirical tail distribution 
 - expected degree of nearest neighbour given node has degree k
