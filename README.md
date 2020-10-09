@@ -4,6 +4,7 @@
 - Clone this repo `git clone <url to this github repo>`
 - Rename the origin of this github to upstream `git remote rename origin upstream`
 - Add your new empty GitHub Repo as the origin `git remote add origin <url to new github repo>`
+- Initialise your work with `git add .`, `git commit -m "first commit"` 
 - Push the work to your own repo `git push origin master`
 - Every time this repo is updated, use `git pull upstream master` (get locally) and then `git push origin master` (to GitHub repo)
 
