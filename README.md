@@ -53,7 +53,6 @@ Notebooks will be uploaded for each support class.
 - expected size of largest component for multiple realisations 
 - expected local clustering coefficient for multiple realisations 
 - Wigner semi-circle law 
-- Geometric Brownian Motion
 
 `Support Class 8.ipynb`
 - Barabsai-albert model 
