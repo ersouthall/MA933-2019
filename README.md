@@ -58,6 +58,8 @@ Notebooks will be uploaded for each support class.
 - Barabsai-albert model 
 - empirical tail distribution 
 - expected degree of nearest neighbour given node has degree k
+- contact process
+- mean-field contact process
 
 # Other 
 
