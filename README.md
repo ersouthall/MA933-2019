@@ -61,6 +61,10 @@ Notebooks will be uploaded for each support class.
 - contact process
 - mean-field contact process
 
+`Support Class 8.ipynb`
+- Directed Networks
+- Trophic Analysis
+
 # Other 
 
 For Latex, I recommend you to use Overleaf (particularly useful for RSG as can have multiple people working on the same document at the same time - plus you can chat to each other on there): [https://www.overleaf.com/](https://www.overleaf.com/)
