@@ -61,9 +61,15 @@ Notebooks will be uploaded for each support class.
 - contact process
 - mean-field contact process
 
-`Support Class 8.ipynb`
+`Support Class 9.ipynb`
 - Directed Networks
 - Trophic Analysis
+
+`Support Class 10.ipynb`
+- Community Detection in Networks
+- Girvan-Newman Algorithm
+- Hierarchical Clustering
+- Markov Clustering
 
 # Other 
 
